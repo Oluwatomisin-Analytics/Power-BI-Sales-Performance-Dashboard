@@ -36,3 +36,22 @@ The goal is to help business stakeholders monitor performance, identify high-per
 
 - Tell Tale recorded the highest number of total transactions in Los Angeles, USA.
 - Plato products drove the strongest overall profit margin (63.55%) in 1998
+
+# Dashboard Preview
+
+## Sales Analysis
+![Sales Analysis](images/sales-analysis.png)
+
+
+## Data Model
+![Data Model](images/data-model.png)
+
+
+## Product Analysis
+![Product Analysis](images/product-analysis.png)
+
+## Geographical Analysis
+![Geographical Analysis](images/geographical-analysis.png)
+
+## Insights
+![Insights](images/insights-page.png)
