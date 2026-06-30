@@ -55,3 +55,11 @@ The goal is to help business stakeholders monitor performance, identify high-per
 
 ## Insights Overview
 ![Insights Overview](images/insights-overview.png)
+
+
+## How to Use
+
+1. Download the `.pbix` file.
+2. Open it using Power BI Desktop.
+3. Refresh the data if required.
+4. Use the slicers, bookmarks, and navigation buttons to explore the dashboard.
