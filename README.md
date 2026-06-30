@@ -64,8 +64,6 @@ The goal is to help business stakeholders monitor performance, identify high-per
 3. Refresh the data if required.
 4. Use the slicers, bookmarks, and navigation buttons to explore the dashboard.
 
-
-
 ## About Me
 
 I'm an aspiring Data Scientist with a strong interest in Business Intelligence, Data Analytics, and Machine Learning.
