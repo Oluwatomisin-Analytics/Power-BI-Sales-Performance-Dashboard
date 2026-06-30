@@ -39,10 +39,14 @@ The goal is to help business stakeholders monitor performance, identify high-per
 
 ## Dashboard Preview
 
-### Overview Dashboard
+### Dashboard Overview
 
-![Dashboard](images/dashboard-overview.png)
+![Dashboard Overview](images/dashboard-overview.png)
 
 ### Sales Analysis
 
-![Sales](images/sales-analysis.png)
+![Sales Analysis](images/sales-analysis.png)
+
+### Product Performance
+
+![Product Performance](images/product-performance.png)
