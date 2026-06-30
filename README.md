@@ -57,9 +57,17 @@ The goal is to help business stakeholders monitor performance, identify high-per
 ![Insights Overview](images/insights-overview.png)
 
 
-## How to Use
 
-1. Download the `.pbix` file.
-2. Open it using Power BI Desktop.
-3. Refresh the data if required.
-4. Use the slicers, bookmarks, and navigation buttons to explore the dashboard.
+
+
+
+## About Me
+
+I'm an aspiring Data Scientist with a strong interest in Business Intelligence, Data Analytics, and Machine Learning.
+This project is part of my portfolio showcasing practical skills in Power BI, DAX, Power Query and data storytelling.
+
+## Connect With Me
+
+LinkedIn: www.linkedin.com/in/oluwatomisin-owolana
+
+GitHub: github.com/Oluwatomisin-Analytics
