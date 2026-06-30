@@ -47,8 +47,8 @@ The goal is to help business stakeholders monitor performance, identify high-per
 ![Data Model](images/data-model.png)
 
 
-## Product Analysis
-![Product Analysis](images/product-analysis.png)
+## Product Performance
+![Product Performance](images/product-performance.png)
 
 ## Geographical Analysis
 ![Geographical Analysis](images/geographical-analysis.png)
