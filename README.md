@@ -70,4 +70,4 @@ This project is part of my portfolio showcasing practical skills in Power BI, DA
 
 LinkedIn: www.linkedin.com/in/oluwatomisin-owolana
 
-GitHub: github.com/Oluwatomisin-Analytics
+GitHub: https://github.com/Oluwatomisin-Analytics
